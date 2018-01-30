@@ -68,7 +68,7 @@
 
     $ vi /etc/pam.d/vsftpd
 
-    末尾添加：
+    注释掉前面的认证方式，末尾添加：
     auth      required  pam_userdb.so   db=/etc/vsftpd/vconf/users
     account   required  pam_userdb.so   db=/etc/vsftpd/vconf/users
 
