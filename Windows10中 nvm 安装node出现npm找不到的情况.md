@@ -2,4 +2,4 @@
 
 默认情况下nodejs是安装在C:\Program Files\nodejs中的
 
-![node_home][https://github.com/tanghuan/markdown/blob/docker-attachment/nvm_home.png]
+![node_home](https://github.com/tanghuan/markdown/blob/docker-attachment/nvm_home.png)
